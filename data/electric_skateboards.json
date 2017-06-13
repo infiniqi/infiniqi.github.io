@@ -1,0 +1,12 @@
+[
+  {
+    "name":"Infiniqi+Spark",
+    "title":"Infiniqi Spark",
+    "category":"electric_skateboard",
+    "price":499.00,
+    "description":"A versatile electric skateboard for everyone. This technical board features a double hub motor, long endurance and great speed for your everyday commute.&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Features:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Max speed: 35 km/h (21 miles/h).&lt;/li&gt;&lt;li&gt;Max milage: 25 km (15 miles).&lt;/li&gt;&lt;li&gt;Wireless controller and charger included.&lt;/li&gt;&lt;li&gt;Easy to control.&lt;/li&gt;&lt;li&gt;Available with black, red or orange wheels.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;",
+    "image":"data/images/spark.png",
+    "largeImage":"data/images/spark.jpeg"
+  }
+]
+
